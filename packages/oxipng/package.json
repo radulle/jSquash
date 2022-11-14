@@ -1,5 +1,5 @@
 {
-  "name": "@jsquash/oxipng",
+  "name": "@crajsquash/oxipng",
   "version": "1.0.0",
   "main": "index.js",
   "description": "Wasm png optimiser supporting the browser. Repackaged from Squoosh App.",

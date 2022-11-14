@@ -1,5 +1,5 @@
 {
-    "name": "@jsquash/resize",
+    "name": "@crajsquash/resize",
     "version": "1.0.1",
     "main": "index.js",
     "description": "Wasm image resize methods supporting the browser and V8 environments. Repackaged from Squoosh App.",

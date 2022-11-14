@@ -1,5 +1,5 @@
 {
-  "name": "@jsquash/jpeg",
+  "name": "@crajsquash/jpeg",
   "version": "1.1.5",
   "main": "index.js",
   "description": "Wasm jpeg encoder and decoder supporting the browser. Repackaged from Squoosh App.",
