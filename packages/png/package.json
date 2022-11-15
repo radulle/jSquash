@@ -1,8 +1,8 @@
 {
-  "name": "@crajsquash/png",
+  "name": "@radulle/cra-squoosh-png",
   "version": "2.0.0",
   "main": "index.js",
-  "description": "Wasm png encoder and decoder supporting the browser. Repackaged from Squoosh App.",
+  "description": "Wasm png encoder and decoder supporting the browser. Repackaged from Squoosh App, CRA compatible fork.",
   "repository": "jamsinclair/jSquash",
   "author": {
     "name": "Jamie Sinclair",

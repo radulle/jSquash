@@ -1,5 +1,7 @@
 # jSquash 🥝
 
+> jSquash modification to make it work with Create React App in Node 14.
+
 > Collection of WebAssembly image codecs that support the browser and are derived from the [Squoosh App](https://github.com/GoogleChromeLabs/squoosh)
 
 Squoosh already provides a [Node.js library](https://github.com/GoogleChromeLabs/squoosh/tree/dev/libsquoosh).

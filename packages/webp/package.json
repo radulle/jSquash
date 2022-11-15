@@ -1,8 +1,8 @@
 {
-  "name": "@crajsquash/webp",
+  "name": "@radulle/cra-squoosh-webp",
   "version": "1.1.3",
   "main": "index.js",
-  "description": "Wasm webp encoder and decoder supporting the browser. Repackaged from Squoosh App.",
+  "description": "Wasm webp encoder and decoder supporting the browser. Repackaged from Squoosh App, CRA compatible fork.",
   "repository": "jamsinclair/jSquash",
   "author": {
     "name": "Jamie Sinclair",

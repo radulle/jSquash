@@ -1,8 +1,8 @@
 {
-  "name": "@crajsquash/avif",
+  "name": "@radulle/cra-squoosh-avif",
   "version": "1.0.2",
   "main": "index.js",
-  "description": "Wasm AVIF encoder and decoder supporting the browser. Repackaged from Squoosh App.",
+  "description": "Wasm AVIF encoder and decoder supporting the browser. Repackaged from Squoosh App, CRA compatible fork.",
   "repository": "jamsinclair/jSquash",
   "author": {
     "name": "Jamie Sinclair",

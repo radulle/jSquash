@@ -1,8 +1,8 @@
 {
-  "name": "@crajsquash/oxipng",
-  "version": "1.0.0",
+  "name": "@radulle/cra-squoosh-oxipng",
+  "version": "1.0.2",
   "main": "index.js",
-  "description": "Wasm png optimiser supporting the browser. Repackaged from Squoosh App.",
+  "description": "Wasm png optimiser supporting the browser. Repackaged from Squoosh App, CRA compatible fork.",
   "repository": "jamsinclair/jSquash/packages/oxipng",
   "author": {
     "name": "Jamie Sinclair",
